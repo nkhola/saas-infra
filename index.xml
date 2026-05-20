@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>SaaS Infra</title>
+      <link>https://nkhola.github.io/saas-infra</link>
+      <description>Last 10 notes on SaaS Infra</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>01-TRACE-A-REQUEST-END-TO-END</title>
+    <link>https://nkhola.github.io/saas-infra/01-TRACE-A-REQUEST-END-TO-END</link>
+    <guid>https://nkhola.github.io/saas-infra/01-TRACE-A-REQUEST-END-TO-END</guid>
+    <description><![CDATA[ Trace A Request End To End The fastest way to learn SaaS infrastructure is to follow one request until it becomes boring. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>02-NETWORKING-HTTP-DNS-TLS</title>
+    <link>https://nkhola.github.io/saas-infra/02-NETWORKING-HTTP-DNS-TLS</link>
+    <guid>https://nkhola.github.io/saas-infra/02-NETWORKING-HTTP-DNS-TLS</guid>
+    <description><![CDATA[ Networking, HTTP, DNS, And TLS For SaaS work, you do not need to become a router engineer. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>03-AUTH-SESSIONS-COOKIES-OAUTH</title>
+    <link>https://nkhola.github.io/saas-infra/03-AUTH-SESSIONS-COOKIES-OAUTH</link>
+    <guid>https://nkhola.github.io/saas-infra/03-AUTH-SESSIONS-COOKIES-OAUTH</guid>
+    <description><![CDATA[ Authentication, Sessions, Cookies, And OAuth Auth feels puzzling because several questions are often collapsed into one word. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>04-BACKEND-APIS-AND-SERVICE-DESIGN</title>
+    <link>https://nkhola.github.io/saas-infra/04-BACKEND-APIS-AND-SERVICE-DESIGN</link>
+    <guid>https://nkhola.github.io/saas-infra/04-BACKEND-APIS-AND-SERVICE-DESIGN</guid>
+    <description><![CDATA[ Backend Shape, APIs, And Service Design A SaaS backend is a set of contracts around state. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>05-STATE-DATA-CACHES-AND-QUEUES</title>
+    <link>https://nkhola.github.io/saas-infra/05-STATE-DATA-CACHES-AND-QUEUES</link>
+    <guid>https://nkhola.github.io/saas-infra/05-STATE-DATA-CACHES-AND-QUEUES</guid>
+    <description><![CDATA[ State, Data, Caches, And Queues State is what makes distributed systems hard. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>06-CLOUD-CONTAINERS-AND-DEPLOYMENT</title>
+    <link>https://nkhola.github.io/saas-infra/06-CLOUD-CONTAINERS-AND-DEPLOYMENT</link>
+    <guid>https://nkhola.github.io/saas-infra/06-CLOUD-CONTAINERS-AND-DEPLOYMENT</guid>
+    <description><![CDATA[ Cloud, Containers, And Deployment Cloud infrastructure is rented primitives plus automation. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>07-SECURITY-THREAT-MODEL</title>
+    <link>https://nkhola.github.io/saas-infra/07-SECURITY-THREAT-MODEL</link>
+    <guid>https://nkhola.github.io/saas-infra/07-SECURITY-THREAT-MODEL</guid>
+    <description><![CDATA[ Security Threat Model For Builders Security is not a separate department-shaped spell. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>08-OBSERVABILITY-RELIABILITY-OPERATIONS</title>
+    <link>https://nkhola.github.io/saas-infra/08-OBSERVABILITY-RELIABILITY-OPERATIONS</link>
+    <guid>https://nkhola.github.io/saas-infra/08-OBSERVABILITY-RELIABILITY-OPERATIONS</guid>
+    <description><![CDATA[ Observability, Reliability, And Operations Modern SaaS is not done when the code works locally. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>09-PRODUCT-ENGINEERING-AND-SCALING</title>
+    <link>https://nkhola.github.io/saas-infra/09-PRODUCT-ENGINEERING-AND-SCALING</link>
+    <guid>https://nkhola.github.io/saas-infra/09-PRODUCT-ENGINEERING-AND-SCALING</guid>
+    <description><![CDATA[ Product Engineering And Scaling Judgment Modern SaaS infrastructure exists to serve product learning, not to cosplay as a distributed systems paper. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item><item>
+    <title>10-PRACTICE-PLAYBOOKS</title>
+    <link>https://nkhola.github.io/saas-infra/10-PRACTICE-PLAYBOOKS</link>
+    <guid>https://nkhola.github.io/saas-infra/10-PRACTICE-PLAYBOOKS</guid>
+    <description><![CDATA[ Practice Playbooks And Meeting Drills The goal is not to memorize product names. The goal is to build reflexes. ]]></description>
+    <pubDate>Tue, 19 May 2026 03:03:36 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
